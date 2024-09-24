@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pageMysteryShopper/static/css/main.b98c64d4.css",
+    "main.js": "/pageMysteryShopper/static/js/main.73ef2025.js",
+    "static/js/453.b3efecc2.chunk.js": "/pageMysteryShopper/static/js/453.b3efecc2.chunk.js",
+    "index.html": "/pageMysteryShopper/index.html",
+    "main.b98c64d4.css.map": "/pageMysteryShopper/static/css/main.b98c64d4.css.map",
+    "main.73ef2025.js.map": "/pageMysteryShopper/static/js/main.73ef2025.js.map",
+    "453.b3efecc2.chunk.js.map": "/pageMysteryShopper/static/js/453.b3efecc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b98c64d4.css",
+    "static/js/main.73ef2025.js"
+  ]
+}
