@@ -1,23 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
+import Nosotros from './Pages/Nosotros'
+import Footer from "./Components/Footer";
+import Nav from "./Components/Nav";
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
+import Servicios from './Pages/Servicios';
+import Blog from './Pages/Blog';
+import ContactoPage from './Pages/ContactoPage';
+import Home from './Pages/Home';
+import UnArticulo from './Components/UnArticulo';
+import Privacidad from './Pages/Privacidad';
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Router>
+        <Nav />
+        <Routes>
+          <Route path="/" element={ <Home/> } />
+          <Route path="/Nosotros" element={ <Nosotros /> } />
+          <Route path="/Servicios" element={ <Servicios /> } />
+          <Route path="/Blog" element={ <Blog /> } />
+          <Route path="/Contacto" element={ <ContactoPage /> } />
+          <Route path="/Blog/:id" element={ <UnArticulo /> } />
+          <Route path='/Privacidad' element={<Privacidad />} />
+        </Routes>
+        <Footer />
+      </Router>
     </div>
   );
 }

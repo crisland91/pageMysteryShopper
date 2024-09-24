@@ -1,0 +1,45 @@
+[
+    {
+        "id":1,
+        "fecha":"16 de septiembre 2024",
+        "Titulo":"¿Que es un Mystery shopper?",
+        "url_img_main": "/images/MysteryShopperImg1.jpg",
+        "Subtitulo_1":"",
+        "Text_1":"El Mystery Shopper es un evaluador anónimo contratado para hacerse pasar por un cliente común y evaluar de manera objetiva la experiencia de compra en un establecimiento. Su tarea principal es observar y registrar detalles clave, como la atención al cliente, la calidad de los productos, el ambiente y el cumplimiento de los estándares de la empresa. Los Mystery Shoppers siguen un guion o lista de verificación que les ayuda a evaluar aspectos específicos del servicio, como la rapidez, cortesía y profesionalismo del personal.",
+        "url_img_1":"/images/MysteryShopperImg1.jpg",
+        "Subtitulo_2":"",
+        "Text_2":"Una vez completada la visita, el Mystery Shopper entrega un informe detallado con sus observaciones, el cual es utilizado por la empresa para identificar oportunidades de mejora y optimizar la experiencia del cliente. Esta labor es fundamental para obtener una perspectiva realista y honesta sobre el desempeño de un negocio.",
+        "url_img_2":"https://educatics.ar/wp-content/uploads/todo-lo-que-necesitas-saber-sobre-los-cuestionarios-de-calidad-en-el-sepe.jpg",
+        "Subtitulo_3":"",
+        "Text_3":"",
+        "url_img_3":"",
+        "Subtitulo_4":"",
+        "Text_4":"",
+        "url_img_4":"",
+        "Subtitulo_5":"",
+        "Text_5":"",
+        "url_img_5":""
+        
+    },
+    {
+        "id":2,
+        "fecha":"18 de septiembre 2024",
+        "Titulo":"¿Que es un cuestionario?",
+        "url_img_main": "/images/MysteryShopperImg1.jpg",
+        "Subtitulo_1":"",
+        "Text_1":"Los cuestionarios son una herramienta clave en la recolección de datos, stos están diseñados para recopilar información detallada y estructurada sobre la experiencia del cliente y el rendimiento del negocio.",
+        "url_img_1":"https://educatics.ar/wp-content/uploads/todo-lo-que-necesitas-saber-sobre-los-cuestionarios-de-calidad-en-el-sepe.jpg",
+        "Subtitulo_2":"",
+        "Text_2":"",
+        "url_img_2":"",
+        "Subtitulo_3":"",
+        "Text_3":"",
+        "url_img_3":"",
+        "Subtitulo_4":"",
+        "Text_4":"",
+        "url_img_4":"",
+        "Subtitulo_5":"",
+        "Text_5":"",
+        "url_img_5":""
+    }
+]
