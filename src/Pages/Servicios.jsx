@@ -13,7 +13,7 @@ export default function Servicios() {
     <div className="bg-white p-6 rounded-lg shadow-lg flex flex-col items-center text-center transition-transform transform hover:scale-105 hover:shadow-2xl">
       <Icon className="text-blue-800 text-5xl mb-4" />
       <h2 className="text-2xl font-bold mb-2">{title}</h2>
-      <p className="text-gray-800 text-xl ">{description}</p>
+      <p className="text-gray-800 text-xl text-center ">{description}</p>
     </div>
   );
 
@@ -27,7 +27,7 @@ export default function Servicios() {
   ];
 
   return (
-    <div className="min-h-screen bg-gray-100 py-12 px-4">
+    <div className="min-h-screen bg-gray-100 py-12 px-4 pt-24">
       <h2 className="text-5xl font-bold text-blue-800 mb-4 text-center oswald-font"  data-aos="zoom-out">
             Nuestros Servicios
           </h2>

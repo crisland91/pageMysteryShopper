@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "fecha":"16 de septiembre 2024",
+        "titulo": "¿Que es un mystery shopper?",
+        "main_img":"/images/MysteryShopperImg1.jpg",
+        "Text_1":"El Mystery Shopper es un evaluador anónimo contratado para hacerse pasar por un cliente común y evaluar de manera objetiva la experiencia de compra en un establecimiento. Su tarea principal es observar y registrar detalles clave, como la atención al cliente, la calidad de los productos, el ambiente y el cumplimiento de los estándares de la empresa. Los Mystery Shoppers siguen un guion o lista de verificación que les ayuda a evaluar aspectos específicos del servicio, como la rapidez, cortesía y profesionalismo del personal.",
+        "redirect":"/Blog/QueEsUnMystery"
+    },
+    {
+        "id":2,
+        "fecha":"25 de septiembre 2024",
+        "titulo":"Cuestionarios en un Estudio de Mystery Shopper",
+        "main_img": "/images/Blog/CuestionarioEnMystery/BlogCuestionario.png",
+        "Text_1":"Los cuestionarios son una herramienta clave en la recolección de datos, estos están diseñados para recopilar información detallada y estructurada sobre la experiencia del cliente y el rendimiento del negocio. A continuación te detallo varios aspectos de los cuestionarios",
+        "redirect":"/Blog/Cuestionarios"
+    }
+]

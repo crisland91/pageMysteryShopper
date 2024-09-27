@@ -23,23 +23,43 @@
     },
     {
         "id":2,
-        "fecha":"18 de septiembre 2024",
-        "Titulo":"¿Que es un cuestionario?",
-        "url_img_main": "/images/MysteryShopperImg1.jpg",
+        "fecha":"25 de septiembre 2024",
+        "Titulo":"Cuestionarios en un Estudio de Mystery Shopper",
+        "url_img_main": "https://www.kyleads.com/wp-content/uploads/2019/09/Questionnaire--1200x720.png",
         "Subtitulo_1":"",
-        "Text_1":"Los cuestionarios son una herramienta clave en la recolección de datos, stos están diseñados para recopilar información detallada y estructurada sobre la experiencia del cliente y el rendimiento del negocio.",
-        "url_img_1":"https://educatics.ar/wp-content/uploads/todo-lo-que-necesitas-saber-sobre-los-cuestionarios-de-calidad-en-el-sepe.jpg",
-        "Subtitulo_2":"",
-        "Text_2":"",
+        "Text_1":"Los cuestionarios son una herramienta clave en la recolección de datos, estos están diseñados para recopilar información detallada y estructurada sobre la experiencia del cliente y el rendimiento del negocio. A continuación te detallo varios aspectos de los cuestionarios",
+        "url_img_1":"https://www.kyleads.com/wp-content/uploads/2019/09/Questionnaire--1200x720.png",
+
+        "Subtitulo_2":"1.- Diseño del cuestionario",
+        "Text_2":"Preguntas cerradas: La mayoría de los cuestionarios contienen preguntas cerradas (sí/no o selección múltiple) para obtener respuestas directas sobre aspectos específicos del servicio, como, ¿El personal fue amable y atento?, ¿Se respetó el tiempo estimado de espera?, ¿El local estaba limpio y ordenado?",
         "url_img_2":"",
+
         "Subtitulo_3":"",
-        "Text_3":"",
+        "Text_3":"Preguntas con escala de valoración: Estas preguntas permiten al Mystery Shopper calificar diferentes aspectos en una escala (por ejemplo, del 1 al 5 o del 1 al 10). Ayudan a evaluar factores subjetivos como la calidad del servicio, la actitud del personal o la satisfacción general. Ejemplo: ¿Cómo calificarías la amabilidad del personal? (1: Muy mala – 10: Excelente)",
         "url_img_3":"",
+
         "Subtitulo_4":"",
-        "Text_4":"",
+        "Text_4":"Preguntas abiertas: Algunas preguntas invitan al evaluador a describir detalles con sus propias palabras. Esto permite una evaluación más cualitativa y detallada. Ejemplo: Describe cómo te atendió el personal en el mostrador.",
         "url_img_4":"",
-        "Subtitulo_5":"",
-        "Text_5":"",
-        "url_img_5":""
+
+        "Subtitulo_5":"2. Nivel de detalle",
+        "Text_5":"Los cuestionarios deben ser lo suficientemente detallados como para cubrir todos los aspectos relevantes, pero también concisos para evitar fatigar al evaluador. Un buen cuestionario equilibra la profundidad de la información sin ser excesivamente largo.",
+        "url_img_5":"https://images.inc.com/uploaded_files/image/1920x1080/getty_504013680_135336.jpg",
+
+        "Subtitulo_6":"3. Respuestas cuantitativas y cualitativas",
+        "Text_6":"Cuantitativas: Las preguntas cerradas y las escalas de valoración permiten que las respuestas se conviertan en datos cuantitativos. Esto facilita un análisis comparativo y gráfico.",
+        "url_img_6":"",
+
+        "Subtitulo_7":"",
+        "Text_7":"Cualitativas: Las preguntas abiertas permiten que el Mystery Shopper dé su percepción general, aportando matices importantes que los números por sí solos no podrían ofrecer.",
+        "url_img_7":"",
+
+        "Subtitulo_8":"4. Objetividad y precisión",
+        "Text_8":"Aunque el Mystery Shopper puede incluir impresiones subjetivas, el cuestionario está diseñado para mantener la objetividad. Las preguntas se enfocan en comportamientos observables y hechos verificables, para que las respuestas sean lo más precisas y justas posible.",
+        "url_img_8":"",
+
+        "Subtitulo_9":"5. Retroalimentación final",
+        "Text_9":"La mayoría de los cuestionarios incluyen una sección final de retroalimentación global. Aquí, el Mystery Shopper puede proporcionar un resumen de su experiencia y ofrecer sugerencias generales para la mejora del servicio. Ejemplo: ¿Qué recomendaciones darías para mejorar el servicio en este establecimiento?.",
+        "url_img_9":"https://media.licdn.com/dms/image/D4E12AQHS0fBa7nCwdA/article-cover_image-shrink_720_1280/0/1676569415325?e=2147483647&v=beta&t=2FllPCnTASvPjTjAtEjWYBUdYdta6uFa9sB6aT0SE7w"
     }
 ]

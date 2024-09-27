@@ -4,7 +4,7 @@ import React, { useEffect, useState } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
-export default function Contacto({ backgrodColor, coloTitle, bgInput, colorLabel }) {
+export default function Contacto({ backgrodColor, coloTitle, bgInput, colorLabel, padTop }) {
 
     useEffect(() => {
         AOS.init({ duration: 500, easing: 'ease-in-out' });
@@ -113,12 +113,12 @@ export default function Contacto({ backgrodColor, coloTitle, bgInput, colorLabel
     };
 
     return (
-        <div className={`${backgrodColor} w-full py-10`} >
-            <h2 className={`text-center text-4xl md:text-5xl font-bold ${coloTitle} mb-6 oswald-font`} data-aos="zoom-out" >
+        <div className={`${backgrodColor}  py-10 w-max-lg ${padTop} `} >
+            <h2 className={` text-center text-4xl md:text-5xl font-bold ${coloTitle} mb-6 oswald-font`} data-aos="zoom-out" >
                 Contactanos
             </h2>
 
-            <form onSubmit={handleSubmit} className={`w-full max-w-lg mx-auto p-8 ${backgrodColor} rounded-lg shadow-2xl shadow-gray-500 space-y-6`} data-aos="zoom-out" >
+            <form onSubmit={handleSubmit} className={`max-w-lg mx-auto p-8 ${backgrodColor} rounded-lg shadow-2xl shadow-gray-500 space-y-6`} data-aos="zoom-out" >
                 <div className="flex flex-col">
                     <label className={`${colorLabel} text-lg font-bold oswald-font`} >Nombre y Apellido<span className='text-red-500 font-thin'>*</span>:</label>
 

@@ -10,7 +10,6 @@ import UnArticulo from './Components/UnArticulo';
 import Privacidad from './Pages/Privacidad';
 
 
-
 function App() {
   return (
     <div>

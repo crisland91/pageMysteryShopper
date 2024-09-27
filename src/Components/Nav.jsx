@@ -5,9 +5,9 @@ export default function Nav() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="bg-gray-800 shadow-lg">
+    <nav className="bg-gray-800 shadow-lg fixed z-20 w-full  ">
       <div className="container mx-auto px-4">
-        <div className="flex justify-between items-center py-4">
+        <div className="flex justify-between items-center py-4 ">
           {/* Logo */}
           <div className="text-2xl font-bold text-white">
             <Link to="/">MiLogo</Link>
@@ -81,6 +81,7 @@ export default function Nav() {
           </div>
         )}
       </div>
+      {/* <div className='mt-10'></div> */}
     </nav>
   );
 }

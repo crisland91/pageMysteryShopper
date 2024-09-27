@@ -8,15 +8,15 @@ export default function QueEsMystery() {
   }, []);
 
     return (
-        <section className="bg-white py-16 px-4" data-aos="fade-up">
-          <div className="max-w-4xl mx-auto text-center">
+        <section className="bg-white " data-aos="fade-up">
+          <div className="mx-auto text-center xl:py-16 xl:px-32 sm:py-16 sm:px-16">
             {/* Título en letras azules */}
             <h2 className="text-4xl md:text-5xl font-bold text-blue-900 mb-6 oswald-font">
               ¿Que es un Mystery Shopper?
             </h2>
     
             {/* Texto descriptivo */}
-            <p className="text-gray-900 text-lg md:text-xl oswald-font">
+            <p className="text-gray-900 text-lg md:text-xl sm:text-justify oswald-font">
             Un Mystery Shopper es una persona contratada por una empresa para actuar como cliente encubierto
              con el fin de evaluar la calidad del servicio y otros aspectos de la experiencia del cliente. 
              Estos evaluadores anónimos visitan tiendas, restaurantes, sucursales bancarias o cualquier 
